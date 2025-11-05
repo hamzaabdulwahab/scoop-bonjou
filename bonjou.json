@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "description": "Terminal-based LAN chat and file transfer app",
+  "homepage": "https://github.com/hamzaabdulwahab/bonjou-cli",
+  "license": "MIT",
+  "url": "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou.exe",
+  "hash": "ec7257c0d6ebcb5cfb4454f3d31b3badf98c9af49c2f8d856c4c7ac03da9fb18",
+  "bin": "bonjou.exe"
+}
