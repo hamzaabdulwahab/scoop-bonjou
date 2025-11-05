@@ -1,7 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Terminal-based LAN chat app",
   "homepage": "https://github.com/hamzaabdulwahab/bonjou-terminal",
-  "url": "https://github.com/hamzaabdulwahab/bonjou-terminal/releases/download/v1.0.0/bonjou-windows.zip",
+  "url": "https://github.com/hamzaabdulwahab/bonjou-terminal/releases/download/v1.0.1/bonjou-windows.zip",
+  "hash": "0fb29ce55953ff5606ba16a35b4fb5361fdba6eaac17500631d39c5fee372e5b",
   "bin": "bonjou.exe"
 }
