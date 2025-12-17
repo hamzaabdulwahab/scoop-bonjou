@@ -1,9 +1,21 @@
 {
-  "version": "1.0.0",
-  "description": "Terminal-based LAN chat and file transfer app",
-  "homepage": "https://github.com/hamzaabdulwahab/bonjou-cli",
-  "license": "MIT",
-  "url": "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou.exe",
-  "hash": "ec7257c0d6ebcb5cfb4454f3d31b3badf98c9af49c2f8d856c4c7ac03da9fb18",
-  "bin": "bonjou.exe"
+    "version": "1.0.0",
+    "description": "Terminal-based LAN chat and transfer application",
+    "homepage": "https://github.com/hamzaabdulwahab/bonjou-cli",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou.exe",
+            "hash": "02aa9310494cd677185ef8449e20fa6a089ee8c8275601af900e763e47ba0e0e"
+        }
+    },
+    "bin": "bonjou.exe",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v$version/bonjou.exe"
+            }
+        }
+    }
 }
