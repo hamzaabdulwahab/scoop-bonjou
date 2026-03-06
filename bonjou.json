@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/hamzaabdulwahab/bonjou-cli/releases/download/v1.0.0/bonjou.exe",
-            "hash": "0fa650f52a7299886b5491df755c082c88b65b1903a44b1385aec4350e7daf2f"
+            "hash": "84b05d0a4a48d072ac7548f7e726553b56dafa68c15c6530ab7514df8a89fe57"
         }
     },
     "bin": "bonjou.exe",
